@@ -1,7 +1,7 @@
 # python2.7
 import torch 
 import torch.nn as nn
-from torch.autograd import Variable
+from torch.autograd import Variable  #导入模块中的所有函数
 import torch.nn.functional as F
 import torch.utils.data
 import torch.optim as optim
